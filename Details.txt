@@ -3,4 +3,6 @@ Id:20171cse0012
 E-mail:201710100186@presidencyuniversity.in
 College:Presidency University
 Branch:Computer Science Engineering
-Address:#234,Dollar's Colony,Sanjaynagar,Bangalore-560094
+City:Bangalore
+State:Karnataka
+Country:India
